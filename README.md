@@ -1,3 +1,5 @@
+This template has been created with Vaadin's [Application Starter](https://start.vaadin.com/app?preset=fusion-crm-tutorial&dl)!
+
 # QBiC Data Manager
 
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
@@ -5,7 +7,9 @@ It contains all the necessary configuration and some placeholder files to get yo
 
 ## Running the application
 
-The project is a standard Maven project. To run it from the command line,
+The project is a 
+
+standard Maven project. To run it from the command line,
 type `mvnw` (Windows), or `./mvnw` (Mac & Linux), then open
 http://localhost:8080 in your browser.
 
