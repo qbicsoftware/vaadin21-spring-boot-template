@@ -1,3 +1,6 @@
+This template is based on [Vaadin's CRM tutorial](https://vaadin.com/docs/v14/flow/tutorials/in-depth-course),
+for which we are very greatful!
+
 # Flow CRM Tutorial
 
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
